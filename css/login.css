@@ -1,0 +1,37 @@
+nav{
+	margin: 0.5px;
+	padding: 10px 10px;
+	border: 1px solid #ccd0d2;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	font-size: 18px;
+	
+
+}
+.container{
+	padding: 10% 30%;
+	background-color: #fbfcfc;
+}
+   .card{
+       width: 400px;
+       height: 400px;
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+  text-align: center;
+      padding: 10% 15%;
+   }
+
+#title{
+	font-family: proxima nova, helvetica neue, helvetica, arial, sans-serif;
+	background-color: #fbfcfc;
+}
+.card-body{
+	 padding: 20% 20%;
+}
+i{
+	
+    padding: 3% 3%;
+}
+img{
+	
+}
